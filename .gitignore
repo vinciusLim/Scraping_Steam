@@ -1,0 +1,7 @@
+ambiente_virtual
+logs
+airflow.cfg
+airflow.db
+webserver_config.py
+dags/logs
+dags/__pycache__
